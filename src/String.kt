@@ -1,4 +1,4 @@
-/*字符串*/
+/*字符串 */
 fun main(args: Array<String>) {
     var status = "我饿了，很饿"
     println(status.length)
